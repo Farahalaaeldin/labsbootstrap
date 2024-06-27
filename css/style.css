@@ -1,0 +1,13 @@
+ *{
+    margin: 0;
+    padding: 0;
+ }
+ /* fontasome section */
+      i{
+        font-size: 50px;
+        background-color: blue;
+        color: antiquewhite;
+      }
+  p{
+    font-family: "Playwrite NG Modern", cursive;
+  }
